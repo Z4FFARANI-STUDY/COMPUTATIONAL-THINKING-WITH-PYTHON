@@ -16,7 +16,7 @@ while True:
     enc = input("Deseja encerrar a fila? (S para encerrar): ").upper()
     
     if enc == "S":
-        break
+        break 
 
 print(fila)
 
