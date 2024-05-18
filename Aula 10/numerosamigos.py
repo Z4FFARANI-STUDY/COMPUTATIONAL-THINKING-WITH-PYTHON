@@ -11,7 +11,7 @@ def amigos(a, b):
     if divisores(b) == a and divisores(a) == b:
         return "Números amigos"
     else:
-        return "Númeos não amigos"
+        return "Números não amigos"
 
 print(divisores(220))
 print(amigos(284, 220))
