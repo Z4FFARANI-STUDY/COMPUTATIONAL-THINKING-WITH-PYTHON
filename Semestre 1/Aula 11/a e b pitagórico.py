@@ -11,5 +11,3 @@ while a < n:
             print(a, b)
             break
     b = 1
-
-        
