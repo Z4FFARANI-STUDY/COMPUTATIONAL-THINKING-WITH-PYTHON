@@ -1,6 +1,6 @@
 def subtracao(a, b):
-    if len(a) == len(b) and len(a[0]) == len(b[0])
-    c = []
+    if len(a) == len(b) and len(a[0]) == len(b[0]):
+        c = []
     for j in range(len(a)):
         linha = []
         for i in range(len(a[0])):
