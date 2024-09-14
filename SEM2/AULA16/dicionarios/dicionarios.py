@@ -17,16 +17,15 @@ dictA = {
     (1,0,1): (3.5)
 }
 
-# print(dict.pop('Carro'))
-# # print(dict)
-# # print(list(dict.items()))
-# dict['Carro'] = 'Ferrari'
-# # print(dict)
+# print(dictA.pop('Carro'))
+# # print(list(dictA.items()))
+# dictA['Carro'] = 'Ferrari'
+# # print(dictA)
 
-# for i in dict.values():
+# for i in dictA.values():
 #     print(i)
 
-# for i, j in dict.items():
+# for i, j in dictA.items():
 #     print(f'Chave {i}; Valor {j}')
 
 
