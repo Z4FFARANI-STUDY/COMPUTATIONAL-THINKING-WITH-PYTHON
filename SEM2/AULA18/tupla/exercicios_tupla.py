@@ -5,7 +5,6 @@
 # tupla1 += a
 # print(tupla1)
 
-
 # Remover elementos de uma tupla. Função tuple transforma em tupla
 tupla2 = (1, 2, 3, 4, 5)
 rem = 4

@@ -40,20 +40,20 @@ loja = {
 
 
 # Exercício 8
-print('banana' in loja)
+# print('banana' in loja)
 
 
 # Exercício 9
-lojaB = {
-    'melancia' : 'vemelho',
-    'banana' : 'verde'
-}
+# lojaB = {
+#     'melancia' : 'vemelho',
+#     'banana' : 'verde'
+# }
 
-print(loja)
-print(lojaB)
-loja.update(lojaB)
-print(loja)
+# print(loja)
+# print(lojaB)
+# loja.update(lojaB)
+# print(loja)
 
 
 # Exercício 10
-print(len(loja))
+# print(len(loja))

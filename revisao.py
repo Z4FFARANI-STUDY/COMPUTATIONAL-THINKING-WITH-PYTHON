@@ -50,6 +50,9 @@
 # c = set([6,7,8])
 # print(a | b | c)
 
+# elementos não repetidos
+# a ^ b
+
 
 # ORDENAÇÃOO
 # BUBBLE SORT trabalha com ordenação de elementos
@@ -71,3 +74,20 @@
 
 # bubble_sort(lista)
 # print(lista)
+
+
+# LAMBDA
+# dobro = lambda x: x**4
+# print(dobro(2))
+
+
+# LISTA
+
+# nome = 'Kaique'
+# dict = {}
+# for i in nome:
+#     if not i in dict:
+#         dict[i] = 1
+#     else:
+#         dict[i] += 1
+# print(dict)

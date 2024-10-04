@@ -1,4 +1,4 @@
-frase = 'Helder'
+frase = 'Kaique'
 
 contagem = {}
 for i in frase:

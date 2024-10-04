@@ -10,8 +10,3 @@ for iteracao in range(len(a) - 1, 0, -1):
             a[i + 1] = aux
     print(iteracao)
     print(a)
-
-# dicionario
-# algo relacionado a objeto
-# tupla, conjunto
-# ordenação
