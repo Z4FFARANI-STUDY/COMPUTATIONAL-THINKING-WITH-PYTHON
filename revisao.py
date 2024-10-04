@@ -59,16 +59,14 @@
 
 # sorted(lista)
 
-# comprimento - 1, pois o último já é o maior, indo até o primeiro
-    # Pode ser range(len(a) - 1), mas será ineficiente
-
-# def bubble_sort(a):
-#     for i in range(len(a) - 1, 0, -1):
-#         for j in range(i):
-#             if a[j] > a[j+1]:
-#                 temp = a[j]
-#                 a[j] = a[j+1]
-#                 a[j+1] = temp
+def bubble_sort(a):
+    for i in range(len(a) - 1, 0, -1):  # Passa por todo o array
+        for j in range(i):  # Compara elementos adjacentes
+            if a[j] > a[j + 1]:  # Verifica se a posição j é maior que a posição j+1 da lista a
+                # Troca os elementos
+                temp = a[j]
+                a[j] = a[j + 1]
+                a[j + 1] = temp
 
 # lista = [12, 68, 95, 41, 25, 71]
 
