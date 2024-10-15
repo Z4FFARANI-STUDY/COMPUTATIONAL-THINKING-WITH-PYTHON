@@ -63,7 +63,7 @@ O Pensamento Computacional com Python é uma combinação poderosa para resolver
 git clone https://github.com/Z4FFARANI-STUDY/COMPUTATIONAL-THINKING-WITH-PYTHON.git
 ```
 
-2. Em um terminal, navegar até a pasta do projeto:
+2. No terminal, navegar até a pasta do projeto:
 ```bash
 cd COMPUTATIONAL-THINKING-WITH-PYTHON
 ```
