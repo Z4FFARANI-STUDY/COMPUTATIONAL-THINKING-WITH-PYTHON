@@ -58,12 +58,14 @@ O Pensamento Computacional com Python é uma combinação poderosa para resolver
 <br>
 
 # INSTRUÇÕES
-Criar uma pasta no computador para ser o repositório local.
+1. No terminal da IDE, clonar o repositório:
+```bash
+git clone https://github.com/Z4FFARANI-STUDY/COMPUTATIONAL-THINKING-WITH-PYTHON.git
+```
 
-Abrir a pasta criada em uma IDE de preferência.
+2. No terminal da IDE, navegar até a pasta do projeto:
+```bash
+cd COMPUTATIONAL-THINKING-WITH-PYTHON
+```
 
-No terminal da IDE, clonar o repositório com `git clone https://github.com/Z4FFARANI-STUDY/COMPUTATIONAL-THINKING-WITH-PYTHON.git`.
-
-No terminal da IDE, navegar até a pasta do projeto com ``cd COMPUTATIONAL-THINKING-WITH-PYTHON``.
-
-Acessar o conteúdo das aulas adiante da pasta `SEM1` ou `SEM2`.
+3. Acessar o conteúdo das aulas adiante da pasta `SEM1` ou `SEM2`.
